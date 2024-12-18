@@ -2,7 +2,7 @@
 
 Simplest VAE implementation, ~100 lines, using MNIST dataset with PyTorch. Run `python vae.py` to train VAE and generate samples in minutes.
 
-<img src="generated_imgs.png">
+<img src="generated_imgs.png" width="400">
 
 ## VQVAE (Vector Quantized VAE)
 
